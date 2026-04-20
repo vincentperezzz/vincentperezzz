@@ -13,9 +13,9 @@ I enjoy building practical software projects and continuously improving my skill
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4FA3D1&vCenter=true&repeat=false&width=460&lines=%F0%9F%8F%86+Achievements)](https://git.io/typing-svg)
 ---
-- 🥇 **Winner – Casper Build Day** — Competed and won in a hackathon/build challenge organized by Casper
-- 🎓 **Consistent Dean's Lister** – Batangas State University, 2022–2025
-- 🏅 **Graduated with Highest Honor** – College of Sciences, Technology and Communications Inc.
+- 🥇 **1st Place – Casper Build Day AI Hackathon** — Built an AI that plays charades in a fast-paced competition against 15 teams, organized by Casper Studios
+- 🎮 **Vibe-a-telier – White Cloak Technologies & WhiteBox Research** — Built an AI agent that generates full-scale Three.js games from scratch with zero human input; deepened expertise in agentic reliability and Claude Code
+- 🚀 **AI Intern – S.P. Madrid** *(14-week program)* — Focused on AI adoption, prompt engineering, and pushing the boundaries of applied AI in a fast-paced tech environment
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=4FA3D1&vCenter=true&repeat=false&width=460&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 ---
