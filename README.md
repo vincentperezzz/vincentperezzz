@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vincent%20Perez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=900&color=4FA3D1&center=false&vCenter=true&repeat=false&width=720&lines=Hi%2C+I'm+Vincent+Perez+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img width="100%" src="./assets/retro-wave.svg" alt="Retro animated Vincent Perez banner" />
 ---
 
 BS Information Technology student (Network Technology specialization) from Batangas, Philippines.  
@@ -19,7 +17,7 @@ I enjoy building practical software projects and continuously improving my skill
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=4FA3D1&vCenter=true&repeat=false&width=460&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 ---
-![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php,dart,flutter,react,nextjs,nodejs,django,flask,mysql,postgresql,firebase,aws,docker,git,github,vscode,linux,figma&perline=8)
+<img width="100%" src="./assets/retro-tech-stack.svg" alt="Retro animated tech stack matrix" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=4FA3D1&vCenter=true&repeat=false&width=460&lines=%F0%9F%93%9C+Certifications)](https://git.io/typing-svg)
 ---

@@ -1,0 +1,69 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C0C12"/>
+      <stop offset="1" stop-color="#181825"/>
+    </linearGradient>
+    <linearGradient id="line" x1="40" y1="0" x2="1160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FE7FF"/>
+      <stop offset="1" stop-color="#B58CFF"/>
+    </linearGradient>
+    <style>
+      .chip { fill:#11111A; stroke:#6A6A92; stroke-width:1.2; rx:14; }
+      .txt { fill:#D9D9E9; font-family:monospace; font-size:20px; }
+      .title { fill:url(#line); font-family:monospace; font-size:34px; font-weight:700; letter-spacing:2px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="560" rx="18" fill="url(#bg2)"/>
+  <rect x="24" y="24" width="1152" height="512" rx="14" stroke="#5C5C84" stroke-opacity="0.7"/>
+  <line x1="40" y1="78" x2="1160" y2="78" stroke="url(#line)" stroke-width="2"/>
+  <rect x="38" y="40" width="14" height="14" rx="2" fill="#6FE7FF"/>
+  <rect x="60" y="40" width="14" height="14" rx="2" fill="#B58CFF"/>
+  <text x="84" y="52" class="title">TECH STACK MATRIX</text>
+
+  <rect x="32" y="0" width="1136" height="8" fill="#6FE7FF" fill-opacity="0.15">
+    <animate attributeName="y" values="88;520;88" dur="5.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(56,116)">
+    <rect class="chip" width="220" height="44"/><text x="16" y="28" class="txt">React.js</text>
+    <g transform="translate(240,0)"><rect class="chip" width="280" height="44"/><text x="16" y="28" class="txt">TypeScript (TSX)</text></g>
+    <g transform="translate(540,0)"><rect class="chip" width="250" height="44"/><text x="16" y="28" class="txt">Tailwind CSS</text></g>
+    <g transform="translate(810,0)"><rect class="chip" width="180" height="44"/><text x="16" y="28" class="txt">Flutter</text></g>
+  </g>
+
+  <g transform="translate(56,176)">
+    <rect class="chip" width="290" height="44"/><text x="16" y="28" class="txt">Django (Python)</text>
+    <g transform="translate(310,0)"><rect class="chip" width="250" height="44"/><text x="16" y="28" class="txt">RESTful API</text></g>
+    <g transform="translate(580,0)"><rect class="chip" width="230" height="44"/><text x="16" y="28" class="txt">Django ORM</text></g>
+    <g transform="translate(830,0)"><rect class="chip" width="160" height="44"/><text x="16" y="28" class="txt">Dart</text></g>
+  </g>
+
+  <g transform="translate(56,236)">
+    <rect class="chip" width="230" height="44"/><text x="16" y="28" class="txt">PostgreSQL</text>
+    <g transform="translate(250,0)"><rect class="chip" width="180" height="44"/><text x="16" y="28" class="txt">MySQL</text></g>
+    <g transform="translate(450,0)"><rect class="chip" width="210" height="44"/><text x="16" y="28" class="txt">Firebase</text></g>
+    <g transform="translate(680,0)"><rect class="chip" width="310" height="44"/><text x="16" y="28" class="txt">Network Administration</text></g>
+  </g>
+
+  <g transform="translate(56,296)">
+    <rect class="chip" width="300" height="44"/><text x="16" y="28" class="txt">LAN/WAN Configuration</text>
+    <g transform="translate(320,0)"><rect class="chip" width="290" height="44"/><text x="16" y="28" class="txt">Subnetting</text></g>
+    <g transform="translate(630,0)"><rect class="chip" width="360" height="44"/><text x="16" y="28" class="txt">Router/Switch ACLs</text></g>
+  </g>
+
+  <g transform="translate(56,356)">
+    <rect class="chip" width="180" height="44"/><text x="16" y="28" class="txt">Docker</text>
+    <g transform="translate(200,0)"><rect class="chip" width="250" height="44"/><text x="16" y="28" class="txt">Git/GitHub</text></g>
+    <g transform="translate(470,0)"><rect class="chip" width="190" height="44"/><text x="16" y="28" class="txt">VS Code</text></g>
+    <g transform="translate(680,0)"><rect class="chip" width="160" height="44"/><text x="16" y="28" class="txt">Figma</text></g>
+    <g transform="translate(860,0)"><rect class="chip" width="130" height="44"/><text x="16" y="28" class="txt">ML</text></g>
+  </g>
+
+  <g transform="translate(56,416)">
+    <rect class="chip" width="240" height="44"/><text x="16" y="28" class="txt">TensorFlow</text>
+    <g transform="translate(260,0)"><rect class="chip" width="200" height="44"/><text x="16" y="28" class="txt">Pandas</text></g>
+    <g transform="translate(480,0)"><rect class="chip" width="430" height="44"/><text x="16" y="28" class="txt">Machine Learning (ML)</text></g>
+  </g>
+</svg>
