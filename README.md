@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=900&lines=I+was+a+%5B+BSIT+%5D+Network+Tech+Specialist;I+am+an+%5B+AWS+%5D+Cloud+Security+Grad;I+won+the+%5B+CHAMP+%5D+Agentic+AI+Hackathon" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=900&lines=I+was+a+%5B+BSIT+%5D+Network+Tech+Specialist+%F0%9F%8E%93!;I+am+an+%5B+AWS+%5D+Cloud+Security+Grad+%E2%98%81%EF%B8%8F!;I+won+the+%5B+CHAMP+%5D+Agentic+AI+Hackathon+%F0%9F%8F%86!" alt="Typing intro" />
   </a>
 </p>
 
