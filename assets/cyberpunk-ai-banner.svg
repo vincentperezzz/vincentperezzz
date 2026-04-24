@@ -283,7 +283,7 @@
   <text x="640" y="196"
         font-family="'Courier New',Courier,monospace"
         font-size="19" font-weight="700"
-        fill="#ff3dd1" text-anchor="middle" filter="url(#fgP)">&#9670;  Built different, mostly incorrectly <animate attributeName="opacity" values=".9;.55;.9" dur="3s" repeatCount="indefinite"/></text>
+        fill="#ff3dd1" text-anchor="middle" filter="url(#fgP)">&#9670;  Built different, mostly incorrectly &#9670;<animate attributeName="opacity" values=".9;.55;.9" dur="3s" repeatCount="indefinite"/></text>
 
   <!-- ── MOVING SCAN BAR (CRT) ── -->
   <rect x="0" y="0" width="1280" height="2" fill="#ffffff" opacity=".07" clip-path="url(#mainClip)">
