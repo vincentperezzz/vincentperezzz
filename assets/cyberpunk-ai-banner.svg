@@ -61,18 +61,6 @@
     </text>
   </g>
 
-  <g opacity="0.9">
-    <rect x="910" y="36" width="320" height="128" rx="14" fill="#0A102B" fill-opacity="0.65" stroke="#00E8FF" stroke-opacity="0.35"/>
-    <text x="936" y="80" fill="#7CFAFF" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
-      STATUS: BUILDING THE FUTURE
-    </text>
-    <text x="936" y="110" fill="#FF77E9" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
-      MODE: AI + CLOUD + NETWORKS
-    </text>
-    <text x="936" y="140" fill="#B9A8FF" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
-      THEME: MODERN RETRO TECH
-    </text>
-  </g>
 
   <rect x="0" y="0" width="1280" height="320" fill="url(#scan)" opacity="0.04"/>
 </svg>
