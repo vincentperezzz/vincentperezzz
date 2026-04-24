@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+AI+Engineer+crafting+intelligent+apps+with+Python%2C+Django%2C+React+%26+TypeScript.;Specializing+in+Agentic+Workflows%2C+LLM+pipelines%2C+and+RAG+architecture.;BSIT+in+Network+Technology+%7C+AWS+Cloud+Security+Graduate+%7C+Agentic+AI+Hackathon+Champion." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%5B+BSIT+%5D+Network+Technology+Specialist;%5B+AWS+%5D+Cloud+Security+Graduate;%5B+CHAMP+%5D+Agentic+AI+Hackathon+Winner" alt="Typing intro" />
   </a>
 </p>
 
