@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,35:302b63,70:24243e,100:00f5ff&text=VINCENT%20PEREZ&fontSize=52&fontColor=fafaff&animation=twinkling&fontAlignY=38&desc=MODERN%20RETRO%20TECH%20VIBES%20%E2%9C%A6%20BUILDING%20THE%20FUTURE&descSize=16&descAlignY=58&descAlign=50" />
+<img width="100%" src="./assets/cyberpunk-ai-banner.svg" alt="Cyberpunk AI Banner" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,37 +20,20 @@ I build practical, high-impact solutions across software engineering, networking
 
 ### 🛠️ Tech Stack
 
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript%20(TSX)-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,flutter,dart,django,python,postgres,mysql,firebase,docker,git,github,vscode,figma,tensorflow&theme=dark&perline=8" />
+</p>
 
-**Backend & APIs**  
-![Django](https://img.shields.io/badge/Django%20(Python)-0D1117?style=for-the-badge&logo=django&logoColor=44B78B)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5A0)
-![Django ORM](https://img.shields.io/badge/Django%20ORM-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-
-**Databases & Data Platforms**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-
-**Networking & Infrastructure**  
-![Network Administration](https://img.shields.io/badge/Network%20Administration-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![LAN/WAN Configuration](https://img.shields.io/badge/LAN%2FWAN%20Configuration-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Subnetting](https://img.shields.io/badge/Subnetting-0D1117?style=for-the-badge&logo=ipv6&logoColor=61DAFB)
-![Router/Switch ACLs](https://img.shields.io/badge/Router%2FSwitch%20ACLs-0D1117?style=for-the-badge&logo=netgear&logoColor=00AEEF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-**Tools & AI/ML**  
-![Git](https://img.shields.io/badge/Git%2FGitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20(ML)-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+<p align="center">
+  <img src="https://img.shields.io/badge/RESTful_API-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Django_ORM-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Network_Administration-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/LAN%2FWAN_Configuration-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Subnetting-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Router%2FSwitch_ACLs-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Pandas-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+  <img src="https://img.shields.io/badge/Machine_Learning_%28ML%29-0a0f24?style=for-the-badge&labelColor=111633&color=1d2757" />
+</p>
 
 ---
 

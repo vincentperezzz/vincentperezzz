@@ -1,0 +1,78 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090015"/>
+      <stop offset="0.48" stop-color="#14042A"/>
+      <stop offset="1" stop-color="#040B1F"/>
+    </linearGradient>
+    <linearGradient id="neonLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00F0FF"/>
+      <stop offset="0.5" stop-color="#FF3FD1"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowPink" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#6A3DE8" stroke-opacity="0.2"/>
+    </pattern>
+    <pattern id="scan" width="2" height="2" patternUnits="userSpaceOnUse">
+      <rect width="2" height="1" fill="#FFFFFF"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <g opacity="0.7">
+    <path d="M0 250C180 200 320 300 520 250C730 195 900 275 1280 210" stroke="url(#neonLine)" stroke-width="2.5" filter="url(#glowCyan)"/>
+    <path d="M0 275C180 225 320 325 520 275C730 220 900 300 1280 235" stroke="#00E8FF" stroke-opacity="0.5" stroke-width="1.5"/>
+  </g>
+
+  <g opacity="0.8">
+    <line x1="0" y1="70" x2="1280" y2="70" stroke="#00F0FF" stroke-opacity="0.18"/>
+    <line x1="0" y1="92" x2="1280" y2="92" stroke="#FF3FD1" stroke-opacity="0.12"/>
+    <line x1="0" y1="114" x2="1280" y2="114" stroke="#7C4DFF" stroke-opacity="0.14"/>
+  </g>
+
+  <g>
+    <text x="64" y="145" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">
+      VINCENT PEREZ
+    </text>
+    <text x="66" y="145" fill="#00E8FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2" opacity="0.28" filter="url(#glowCyan)">
+      VINCENT PEREZ
+    </text>
+  </g>
+
+  <g filter="url(#glowPink)">
+    <text x="66" y="188" fill="#FF4ED9" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600" letter-spacing="1.1">
+      CYBERPUNK FULL-STACK • NETWORK ENGINEERING • ADVANCED AI SYSTEMS
+    </text>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="910" y="36" width="320" height="128" rx="14" fill="#0A102B" fill-opacity="0.65" stroke="#00E8FF" stroke-opacity="0.35"/>
+    <text x="936" y="80" fill="#7CFAFF" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
+      STATUS: BUILDING THE FUTURE
+    </text>
+    <text x="936" y="110" fill="#FF77E9" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
+      MODE: AI + CLOUD + NETWORKS
+    </text>
+    <text x="936" y="140" fill="#B9A8FF" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="600">
+      THEME: MODERN RETRO TECH
+    </text>
+  </g>
+
+  <rect x="0" y="0" width="1280" height="320" fill="url(#scan)" opacity="0.04"/>
+</svg>
