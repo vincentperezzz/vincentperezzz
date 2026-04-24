@@ -58,7 +58,6 @@
     <g transform="translate(200,0)"><rect class="chip" width="250" height="44"/><text x="16" y="28" class="txt">Git/GitHub</text></g>
     <g transform="translate(470,0)"><rect class="chip" width="190" height="44"/><text x="16" y="28" class="txt">VS Code</text></g>
     <g transform="translate(680,0)"><rect class="chip" width="160" height="44"/><text x="16" y="28" class="txt">Figma</text></g>
-    <g transform="translate(860,0)"><rect class="chip" width="130" height="44"/><text x="16" y="28" class="txt">ML</text></g>
   </g>
 
   <g transform="translate(56,416)">
