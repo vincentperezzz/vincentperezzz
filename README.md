@@ -11,7 +11,7 @@
 BS Information Technology student (Network Technology specialization) from Batangas, Philippines.  
 I build practical, high-impact solutions across software engineering, networking, and AI.
 
-- 📍 Batangas, Philippines
+- 📍 Quezon, Philippines
 - 📧 [perezvincent100@gmail.com](mailto:perezvincent100@gmail.com)
 - 💼 [linkedin.com/in/vincentperezzz](https://linkedin.com/in/vincentperezzz)
 - 🌱 Currently learning: Quantum Computing, Cloud Security, and AI Engineering
