@@ -54,8 +54,8 @@ I build practical, high-impact solutions across software engineering, networking
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vincentperezzz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=vincentperezzz&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vincentperezzz&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=vincentperezzz&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 <p>
