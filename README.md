@@ -54,5 +54,5 @@ I build practical, high-impact solutions across software engineering, networking
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincentperezzz&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="./assets/github-stats.svg" width="100%" alt="Vincent Perez GitHub stats" />
 </p>
