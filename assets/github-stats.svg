@@ -110,7 +110,7 @@
   <line x1="0" y1="404" x2="1280" y2="404" stroke="#00f5ff" stroke-width="1" stroke-opacity=".28"/>
   <line x1="0" y1="407" x2="1280" y2="407" stroke="#ff3dd1" stroke-width=".75" stroke-opacity=".18"/>
   <rect x="0" y="410" width="1280" height="20" fill="#1c003e"/>
-  <text x="28" y="424" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8a7ab8">FOLLOWERS 5   FOLLOWING 4   SINCE 2023   PRIVATE SIGNAL INCLUDED   UPDATED 2026-08-21</text>
+  <text x="28" y="424" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8a7ab8">FOLLOWERS 5   FOLLOWING 4   SINCE 2023   PRIVATE SIGNAL INCLUDED   UPDATED 2026-08-22</text>
 
   <rect x="0" y="0" width="1280" height="2" fill="#ffffff" opacity=".07" clip-path="url(#mainClip)">
     <animateTransform attributeName="transform" type="translate" values="0,-2;0,432" dur="8s" repeatCount="indefinite" calcMode="linear"/>
