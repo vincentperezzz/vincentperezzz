@@ -82,7 +82,7 @@
     <rect x="1012" y="78" width="235" height="108" rx="6" fill="#110025" stroke="#7c4dff" stroke-opacity=".45"/>
     <rect x="1012" y="78" width="235" height="3" fill="#00f5ff" opacity=".85"/>
     <text x="1030" y="108" font-family="'Courier New',Courier,monospace" font-size="12" font-weight="700" fill="#ff3dd1">STREAK</text>
-    <text x="1030" y="148" font-family="'Courier New',Courier,monospace" font-size="32" font-weight="900" fill="#00f5ff" filter="url(#glow)">3D</text>
+    <text x="1030" y="148" font-family="'Courier New',Courier,monospace" font-size="32" font-weight="900" fill="#00f5ff" filter="url(#glow)">0D</text>
     <text x="1030" y="170" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8a7ab8">BEST 18D</text>
   </g>
 
@@ -110,7 +110,7 @@
   <line x1="0" y1="404" x2="1280" y2="404" stroke="#00f5ff" stroke-width="1" stroke-opacity=".28"/>
   <line x1="0" y1="407" x2="1280" y2="407" stroke="#ff3dd1" stroke-width=".75" stroke-opacity=".18"/>
   <rect x="0" y="410" width="1280" height="20" fill="#1c003e"/>
-  <text x="28" y="424" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8a7ab8">FOLLOWERS 6   FOLLOWING 5   SINCE 2023   PRIVATE SIGNAL INCLUDED   UPDATED 2026-09-04</text>
+  <text x="28" y="424" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8a7ab8">FOLLOWERS 6   FOLLOWING 5   SINCE 2023   PRIVATE SIGNAL INCLUDED   UPDATED 2026-09-05</text>
 
   <rect x="0" y="0" width="1280" height="2" fill="#ffffff" opacity=".07" clip-path="url(#mainClip)">
     <animateTransform attributeName="transform" type="translate" values="0,-2;0,432" dur="8s" repeatCount="indefinite" calcMode="linear"/>
