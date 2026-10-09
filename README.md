@@ -37,21 +37,6 @@ I build practical, high-impact solutions across software engineering, networking
 
 ---
 
-### 🏆 Achievements
-- 🥇 **1st Place – Casper Build Day AI Hackathon** — Built an AI that plays charades in a fast-paced competition against 15 teams, organized by Casper Studios
-- 🎮 **Vibe-a-telier – White Cloak Technologies & WhiteBox Research** — Built an AI agent that generates full-scale Three.js games from scratch with zero human input; deepened expertise in agentic reliability and Claude Code
-- 🚀 **AI Intern – S.P. Madrid** *(14-week program)* — Focused on AI adoption, prompt engineering, and applied AI delivery in a fast-paced tech environment
-
----
-
-### 📜 Certifications
-- 🔒 **AWS Academy Graduate – Cloud Security Foundations** *(Nov 2025)*
-- 🤖 **CS50's Intro to AI with Python (CS50ai), Harvard University** *(Aug 2025)*
-- 💻 **CS50 Introduction to Computer Science (CS50x), Harvard University** *(Jun 2025)*
-- ☁️ **AWS Academy Graduate – Cloud Foundations** *(May 2025)*
-
----
-
 ### 📊 GitHub Stats
 <p>
   <img src="./assets/github-stats.svg" width="100%" alt="Vincent Perez GitHub stats" />
